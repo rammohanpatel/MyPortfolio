@@ -6,7 +6,7 @@ const IconLoader = () => (
     <g>
       <g id="B" transform="translate(11.000000, 5.000000)">
         <text x="20" y="60" fill="currentColor" fontSize="55px" fontFamily="var(--font-sans)">
-          H
+          R
         </text>
       </g>
       <path

@@ -22,7 +22,7 @@ const IconLogo = () => (
       </g>
     </g>
     <text x="24" y="65" fill="currentColor" fontSize="55px" fontFamily="var(--font-sans)">
-      H
+      R
     </text>
   </svg>
 );

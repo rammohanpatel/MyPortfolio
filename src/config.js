@@ -1,23 +1,25 @@
 module.exports = {
-  email: 'harshwasnik160602@gmail.com',
+  email: 'mram41614@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/MUCCHU',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/mucchu1606',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/HarshWasnik1606',
+      url: 'https://github.com/rammohanpatel/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/harsh-wasnik-60b63b1b9/',
+      url: 'https://www.linkedin.com/in/ram-mohan-patel-1b5597220/',
     },
+    {
+      name: 'Twitter',
+      url: 'https://x.com/crazyrammohan/',
+    },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/curious_kgpian/',
+    },
+    
+    
     // {
     //   name: 'Codepen',
     //   url: 'https://codepen.io/javagenuis',

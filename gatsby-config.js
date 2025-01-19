@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Harsh Wasnik',
+    title: 'Ram Mohan Patel',
     description:
-      'Harsh Wasnik is a student at IIT Kharagpur who is also an excellent web developer specializing in both frontend as well as backend web development',
-    siteUrl: 'https://harshwasnik.live', // No trailing slash allowed!
+      'Ram Mohan Patel is a student at IIT Kharagpur who is also an excellent web developer specializing in both frontend as well as backend web development',
+    siteUrl: 'https://rammohanpatel.vercel.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@HarshWasnik1606',
+    twitterUsername: '@crazyrammohan',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Harsh Wasnik',
-        short_name: 'Harsh Wasnik',
+        name: 'Ram Mohan Patel',
+        short_name: 'Ram Mohan Patel',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

@@ -60,20 +60,20 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Harsh Wasnik.</h2>;
+  const two = <h2 className="big-heading">Ram Mohan Patel.</h2>;
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in back-end infrastructures and APIs, I
-        offer expertise in designing and building scalable and reliable software solutions .
+        I’m a software engineer specializing in Full Stack Development, I
+        offer expertise in designing and building web applications.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="mailto:harshwasnik160602@gmail.com"
+      href="mailto:mram41614@gmail.com"
       target="_blank"
       rel="noreferrer">
       Say Hello !
