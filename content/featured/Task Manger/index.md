@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Task Manager'
 cover: './task_manager.png'
 github: 'https://github.com/rammohanpatel/Task-Management-Web-App'
@@ -13,4 +13,3 @@ tech:
 ---
 
 Developed a React-based task management system with secure authentication, task prioritization, due dates, completion tracking, and advanced filtering and search functionalities.
-
