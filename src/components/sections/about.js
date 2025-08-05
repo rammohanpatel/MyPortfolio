@@ -132,7 +132,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Ram Mohan Patel, a curious and creative individual having a unique blend of technical
+              Hello, I'm Ram Mohan Patel, a curious and creative individual having a unique blend of technical
               expertise and creative problem-solving skills. I enjoy creating things that live on
               the internet, whether that be websites, applications, or anything in between.
             </p>
